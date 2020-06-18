@@ -37,7 +37,7 @@ Next, along with testing if the conversion rate changes for different pages, I a
 
 ## Conclusions 
 
-1) There was no evidence suggesting that those who explore either page will neccessary lead to more conversions.
-2) The country of the user did not impact the rate of conversion between the two pages.
-3) Given all above, we failed to reject the null hypothsis and couldn't have significant evidence supporting the alternative hypothesis.
-4) More research is required to find more critical influence factors.
+1) There was no evidence suggesting that those who explore either page will neccessary lead to more conversions.<br>
+2) The country of the user did not impact the rate of conversion between the two pages.<br>
+3) Given all above, we failed to reject the null hypothsis and couldn't have significant evidence supporting the alternative hypothesis.<br>
+4) More research is required to find more critical influence factors.<br>
