@@ -1,9 +1,4 @@
-# udacity.com Project 3: Analyze A/B Test Results
-
-
-
-
-# Analyze-A-B-Test-Results
+# Analyze A/B Test Results
 [Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002) Data Analyst Nano-Degree - Project 3
 
 ## Objectives
@@ -11,16 +6,16 @@ The objective of this project is to understand and use the knowledge of probabil
 
 ## What Software Do I Need?
 
-To complete this project, i'll require the following softwares:
+To complete this project, I utilized the following tools:
 
 - Python (Numpy, Pandas, Matplotlib, Seaborn, StatsModels, sklearn)
 - JupyterLab by Anaconda
 
-## Part I - Probability 
+### Part I - Probability 
 
 Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.
 
-## Part II - A/B Test 
+### Part II - A/B Test 
 
 Next, hypothesis testing was conducted assuming the old page is similar or better unless the new page proves otherwise considering a Type I error rate of 5%. 
 
@@ -28,7 +23,7 @@ Both transactions were simulated using np.random,binomial function both under ca
 
 We then further analyzed the results using statsmodel yet couldn't find significant evidence to reject the null hypothesis based on calculated p-value.
 
-## Part III - Regression
+### Part III - Regression
 
 Logistic regression was then performed to confirm results of the previous steps.  Null and alternative hypotheses associated with this regression model were stated and verified to be equal to that of statsmodel. Notice that logistic regression results in a two-sided p-values. 
 
